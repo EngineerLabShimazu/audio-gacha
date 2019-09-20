@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "hello python",
+            "invocationName": "audio gacha",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
